@@ -41,5 +41,5 @@ The experiments are conducted on the **Air Quality Dataset** from the UCI Machin
 ## Author
 Selene González Curbelo  
 Universidad Internacional de la Rioja (UNIR)  
-Course: *Computer Vision*  
+Course: *Machine Learning Techniques*  
 Date: 2024
